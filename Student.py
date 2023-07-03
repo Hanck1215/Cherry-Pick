@@ -1,2 +1,3 @@
 class Student() :
     name = ""
+    id = ""
